@@ -1,0 +1,11 @@
+C:\Users\aliso\source\repos\BankSystem_exceptions\obj\Debug\netcoreapp3.1\BankSystem_exceptions.csprojAssemblyReference.cache
+C:\Users\aliso\source\repos\BankSystem_exceptions\obj\Debug\netcoreapp3.1\BankSystem_exceptions.AssemblyInfoInputs.cache
+C:\Users\aliso\source\repos\BankSystem_exceptions\obj\Debug\netcoreapp3.1\BankSystem_exceptions.AssemblyInfo.cs
+C:\Users\aliso\source\repos\BankSystem_exceptions\bin\Debug\netcoreapp3.1\BankSystem_exceptions.exe
+C:\Users\aliso\source\repos\BankSystem_exceptions\bin\Debug\netcoreapp3.1\BankSystem_exceptions.deps.json
+C:\Users\aliso\source\repos\BankSystem_exceptions\bin\Debug\netcoreapp3.1\BankSystem_exceptions.runtimeconfig.json
+C:\Users\aliso\source\repos\BankSystem_exceptions\bin\Debug\netcoreapp3.1\BankSystem_exceptions.runtimeconfig.dev.json
+C:\Users\aliso\source\repos\BankSystem_exceptions\bin\Debug\netcoreapp3.1\BankSystem_exceptions.dll
+C:\Users\aliso\source\repos\BankSystem_exceptions\bin\Debug\netcoreapp3.1\BankSystem_exceptions.pdb
+C:\Users\aliso\source\repos\BankSystem_exceptions\obj\Debug\netcoreapp3.1\BankSystem_exceptions.dll
+C:\Users\aliso\source\repos\BankSystem_exceptions\obj\Debug\netcoreapp3.1\BankSystem_exceptions.pdb
